@@ -1,0 +1,2 @@
+player setpos [6022,13582,0];
+titleText ["You are now at Home Base.", "PLAIN DOWN"];titleFadeOut 2;

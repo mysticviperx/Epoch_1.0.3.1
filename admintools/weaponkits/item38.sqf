@@ -1,0 +1,13 @@
+GearAdd = (vehicle player);
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';
+GearAdd addMagazine 'ItemGoldBar10oz';

@@ -1,0 +1,1 @@
+titleText ["Fixing Buildings In 1000m Radius","PLAIN DOWN"];titleFadeOut 2;_repair = (getPosATL player) nearObjects ["Building", 1000];_fix=0;_break=1;{_x setDammage _fix} forEach _repair;

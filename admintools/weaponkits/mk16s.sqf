@@ -1,0 +1,20 @@
+GearRemove = (vehicle player);
+removebackpack GearRemove;
+
+GearAdd = (vehicle player);
+GearAdd addBackpack 'DZ_LargeGunBag_EP1';
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['SCAR_L_STD_Mk4CQT', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['SCAR_L_CQC_EGLM_Holo', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['SCAR_L_CQC_Holo', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['SCAR_L_STD_EGLM_RCO', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['SCAR_L_STD_HOLO', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['100Rnd_556x45_BetaCMag', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['1Rnd_HE_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['FlareWhite_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['FlareGreen_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['FlareRed_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['FlareYellow_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['1Rnd_Smoke_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['1Rnd_SmokeRed_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['1Rnd_SmokeGreen_M203', 1];
+(Unitbackpack GearAdd) addMagazineCargoGlobal ['1Rnd_SmokeYellow_M203', 1];

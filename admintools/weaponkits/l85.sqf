@@ -1,0 +1,21 @@
+GearRemove = (vehicle player);
+removeAllWeapons GearRemove;
+removeAllItems GearRemove;
+removebackpack GearRemove;
+
+GearAdd = (vehicle player);
+GearAdd addWeapon 'BAF_L86A2_ACOG';
+GearAdd addMagazine '100Rnd_556x45_BetaCMag';
+GearAdd addMagazine '30Rnd_556x45_StanagSD';
+GearAdd addMagazine '30Rnd_556x45_StanagSD';
+GearAdd addMagazine '30Rnd_556x45_StanagSD';
+GearAdd addMagazine '30Rnd_556x45_Stanag';
+GearAdd addMagazine '30Rnd_556x45_Stanag';
+GearAdd addMagazine '30Rnd_556x45_Stanag';
+GearAdd addBackpack 'DZ_LargeGunBag_EP1';
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_RIS_Holo', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_RIS_SUSAT', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_RIS_ACOG', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_UGL_Holo', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_UGL_SUSAT', 1];
+(Unitbackpack GearAdd) addWeaponCargoGlobal ['BAF_L85A2_UGL_ACOG', 1];

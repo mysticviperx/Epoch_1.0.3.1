@@ -1,0 +1,10 @@
+GearAdd = (vehicle player);
+GearAdd addWeapon 'AKS_GOLD';
+GearAdd addMagazine '30Rnd_762x39_SA58';
+GearAdd addMagazine '30Rnd_762x39_SA58';
+GearAdd addMagazine '30Rnd_762x39_SA58';
+GearAdd addWeapon 'revolver_gold_EP1';
+GearAdd addMagazine '6Rnd_45ACP';
+GearAdd addMagazine '6Rnd_45ACP';
+GearAdd addMagazine '6Rnd_45ACP';
+GearAdd addMagazine '6Rnd_45ACP';
